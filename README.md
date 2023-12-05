@@ -1,4 +1,4 @@
 # GITHUB-LEARNING
 FIRST DAY
-clear command sor clearing template
-git status command for seeing status of are file
+<br>clear command for clearing terminal
+<br>git status command for seeing status of our file
